@@ -30,7 +30,7 @@ if ALLOWED_HOSTS:
 else:
     ALLOWED_HOSTS = []
 
-APPEND_SLASH = True
+APPEND_SLASH = False
 
 # Application definition
 
