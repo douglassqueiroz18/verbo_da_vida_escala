@@ -45,6 +45,10 @@ INSTALLED_APPS = [
     'core',
     'corsheaders'
 ]
+CORS_ALLOWED_ORIGINS = [
+    "https://verbo-da-vida-escala-front.vercel.app",
+    "http://localhost:4200",
+]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
