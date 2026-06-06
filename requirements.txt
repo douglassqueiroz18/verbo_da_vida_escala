@@ -8,3 +8,4 @@ whitenoise
 django-cors-headers
 pywhatkit
 firebase-admin
+python-dotenv
