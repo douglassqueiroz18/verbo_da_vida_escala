@@ -6,3 +6,5 @@ gunicorn
 psycopg2-binary
 whitenoise
 django-cors-headers
+pywhatkit
+firebase-admin
